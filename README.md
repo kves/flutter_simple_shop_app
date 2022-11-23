@@ -2,7 +2,7 @@
 
 Simple shopping app in flutter - adding and deleting products, summing total payment.\
 dribble design: https://dribbble.com/shots/18876097-Grocery-Shop-UI \
-used photos: \ 
+used photos:  
 
 banana https://www.flaticon.com/free-icon/banana_3143645\
 
@@ -14,7 +14,7 @@ tomato https://www.flaticon.com/free-icon/tomato_2662082\
 
 grocery man https://storyset.com/illustration/online-groceries/cuate\
 
-Results on Iphone Pro Max:\
+Results on Iphone Pro Max: 
 
 
 
